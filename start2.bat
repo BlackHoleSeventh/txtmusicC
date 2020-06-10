@@ -1,0 +1,1 @@
+tm.exe D:\txtmusicPCversion\omrg100.txt 100
